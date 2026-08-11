@@ -1,4 +1,2 @@
 # Veldlink-2026
-Document purpose of sync logic fix branch;
-Add retry handling for failed synchronisation;
-Validate sync recovery after connection;
+This branch was created to isolate and fix the VeldLink Sync Logic failure without affecting the stable main branch. It allows the development team to test the synchronisation fix safely before reviewing and merging the changes into the main codebase.
